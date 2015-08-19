@@ -1,5 +1,7 @@
 /* This defines styles and classes used in the book */
-body { margin: 5%; text-align: justify; font-size: medium; }
+body { margin: 0%; text-align: justify; font-size: small;
+       font-family: "Garamond", "Palatino", "Times New Roman", serif;
+ }
 code { font-family: monospace; }
 h1 { text-align: left; }
 h2 { text-align: left; }
